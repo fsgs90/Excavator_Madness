@@ -22,6 +22,18 @@
 		{
 			"Name": "GeometryScripting",
 			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioMotorSim",
+			"Enabled": true
+		},
+		{
+			"Name": "MotoSynth",
+			"Enabled": true
 		}
 	]
 }
